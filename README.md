@@ -1,5 +1,19 @@
+*************************
+*** READ ME - MORPION ***
+*************************
+
+
+Ce dossier s'appelle THP---Morpion et contient des fichiers écrits dans le langage Ruby.
+    
+    Il contient :
+    
+    - une Gemfile
+    - 4 fichiers de programmation (/lib)
+    - 1 fichier de tests (/spec) 
+    - 1 fichier README.md
+
 *************************************
-********* READ ME - MORPION *********
+*********    INSTRUCTIONS   *********
 *************************************
 
 Créer un morpion interactif en POO
