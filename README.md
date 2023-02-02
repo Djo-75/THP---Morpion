@@ -16,3 +16,7 @@ Qu'est-il prévu dans ce programme ?
     Si une ligne ou une colonne est remplie des 3 mêmes symboles, le joueur remporte la partie.
 
 Bon jeu !
+
+*************************************
+*************************************
+*************************************
