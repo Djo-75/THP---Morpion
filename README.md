@@ -5,11 +5,12 @@
 
 Ce dossier s'appelle THP---Morpion et contient des fichiers écrits dans le langage Ruby.
     
-    Il contient :
+Il contient :
     
-    - une Gemfile
+    - 1 Gemfile
     - 4 fichiers de programmation (/lib)
     - 1 fichier de tests (/spec) 
+    - 1 fichier de lancement (dossier racine)
     - 1 fichier README.md
 
 *************************************
